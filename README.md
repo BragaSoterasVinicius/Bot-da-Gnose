@@ -1,5 +1,5 @@
 <h1>Gnose</h1>
-![gnosis](https://github.com/BragaSoterasVinicius/Bot-da-Gnose/assets/60852344/d6243bd5-bcec-413a-a918-8d8e9ef5d15f)
+<img src='https://github.com/BragaSoterasVinicius/Bot-da-Gnose/assets/60852344/d6243bd5-bcec-413a-a918-8d8e9ef5d15f)' style='height: 200px'>
 
 
 <p>
