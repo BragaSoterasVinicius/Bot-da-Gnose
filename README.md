@@ -7,3 +7,9 @@
   <a href='http://www.dicpoetica.letras.ufrj.br/index.php/Gnose#:~:text=%E2%80%9CGnose%2C%20ou%20Gnosis%2C%20%C3%A9,semelhante%20ao%20da%20palavra%20epist%C3%A9me.'>Fonte</a>
   <br><p>Em geral, se eu não entendi é gnose.</p>
 </label>
+
+<h1>O que ainda falta</h1>
+<ul>
+  <li>Aumentar a gnose por mensagem, dependendo do seu tamanho (quanto maior a mensagem, maior a quantidade de "gnoses").</li>
+  <li>Decidir um procedimento melhor para <strong>quando</strong> a gnose deve acontecer, no dado momento, o bot irá responder todas as mensagens de usuários que passem de quatro palavras.</li>
+</ul>
