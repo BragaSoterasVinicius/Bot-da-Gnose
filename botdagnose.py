@@ -11,10 +11,10 @@ def gnose_maker(originalString):
             if textSize > 10: #retirar linha no futuro?
                 for n in range(floor(10/3)):
                     randomWord = r(len(originalString.split()))
-                    originalString = originalString.replace(originalString.split(" ")[randomWord], "gnose")
+                    originalString = originalString.replace(originalString.split(" ")[randomWord], "gnose", 1)
                     print(originalString)
         randomWord = r(len(originalString.split()))
-        finalString = originalString.replace(originalString.split(" ")[randomWord], "gnose")
+        finalString = originalString.replace(originalString.split(" ")[randomWord], "gnose", 1)
         print(finalString)
     else:
         randomWord = r(len(originalString))
