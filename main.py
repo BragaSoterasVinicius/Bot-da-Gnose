@@ -10,14 +10,14 @@ TOKEN: Final[str] = os.getenv('DISCORD_TOKEN')
 intents: Intents = Intents.default()
 intents.message_content = True
 client: Client = Client(intents=intents)
-
+    
 async def send_message(message: Message, user_message: str) -> None:
     if not user_message:
         print('Que porra é sessa caraio')
     try: 
         response: str = gnose_maker(user_message)
         print(response)
-        if gnose_maker(user_message) != None:
+        if response != None:
             await message.channel.send(response)
     except Exception as e:
         print(e)
